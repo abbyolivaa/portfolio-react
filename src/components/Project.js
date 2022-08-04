@@ -7,8 +7,16 @@ import socialmoodiaImg from "../assets/portfolio/socialmoodiaImg.png";
 import teamprofileImg from "../assets/portfolio/teamprofileImg.png";
 import techblogImg from "../assets/portfolio/techblogImg.png";
 import employeeImg from "../assets/portfolio/employeeImg.png";
+import listImg from "../assets/portfolio/listImg.png";
+
 
 const projectList = [
+    {
+        title: 'ListRx',
+        image: listImg,
+        preview: 'https://listrx.herokuapp.com/',
+        gitHubLink: 'https://github.com/infojunkie01/ListRx'
+    },
   //Wrok Day Scheduler
     {
         title: 'Work Day Scheduler',

@@ -5,13 +5,13 @@ function Resume() {
   return (
     <section>
       <h2 id="about" className="d-flex justify-content-center ">Resume</h2>
+      <br></br>
       <div>
-
-        
         <h5>
           Occupation: 
         </h5>
         <p>Full Stack Developer</p>
+        <br></br>
 
         <h5>Social Links:</h5>
         <ul>
@@ -19,17 +19,23 @@ function Resume() {
           <li>Indeed</li>
           <li> <a href='http://github.com/abbyolivaa'>GitHub</a></li>
         </ul>
+        <br></br>
+
 
         <h5>Education</h5>
         <ul>
           <li>Columbia University: Computer Science</li>
         </ul>
+        <br></br>
+
 
         <h5>Work</h5>
         <ul>
           <li>Etsy: Upsale</li>
           <li>Youtube: Content Creator</li>
         </ul>
+        <br></br>
+
 
         <h5>Skills</h5>
         <ul>

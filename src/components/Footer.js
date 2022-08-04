@@ -1,4 +1,12 @@
 import React from "react";
+//import icons from fontawesome
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// Github
+
+//LinkedIn
+//import {faGithubAlt} from '@fortawesome/free-solid-svg-icons'
+//Twitter
+//import {faGithubAlt} from '@fortawesome/free-solid-svg-icons'
 
 function Footer() {
 
@@ -8,17 +16,17 @@ function Footer() {
       <ul className="flex-row">
         <li className="mx-2">
           <a href="https://github.com/abbyolivaa">
-            GitHub
+          <i class="fa-brands fa-github-alt"></i> 
             </a>
         </li>
         <li className={"mx-2"}>
           <a href="#">
-            Linkedin
+          <i class="fa-brands fa-linkedin-in"></i>
             </a>
         </li>
         <li className={"mx-2"}>
           <a href="#">
-            Twitter
+          <i class="fa-brands fa-square-twitter"></i>
             </a>
         </li>
     
