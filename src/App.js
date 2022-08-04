@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Nav from './components/Nav';
 import Project from './components/Project';
 import About from './components/Pages/About';
-import Portfolio from './components/Pages/Portfolio';
 import Resume from './components/Pages/Resume';
 import Contact from './components/Pages/Contact';
 

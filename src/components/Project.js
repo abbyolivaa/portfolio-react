@@ -72,8 +72,8 @@ function Project() {
                 {projectList.map((project) => (
                     <div className="project-entry mb-4 p-5 md-4">
                         <h5>{project.title}</h5>
-                        <p> <a href={project.gitHubLink} target="_blank">Github </a> </p>
-                        <a href={project.preview}> <img src={project.image} width="300" /> </a>
+                        <p> <a href={project.gitHubLink} target="_blank" rel="noreferrer" >Github </a> </p>
+                        <a href={project.preview}> <img src={project.image} width="300" alt="project" /> </a>
                     </div>
                 ))}
             </div>

@@ -14,12 +14,12 @@ function Footer() {
             </a>
         </li>
         <li className={"mx-2"}>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/abigail-oliva-920604229">
           <i class="fa-brands fa-linkedin-in"></i>
             </a>
         </li>
         <li className={"mx-2"}>
-          <a href="#">
+          <a href="https://twitter.com/">
           <i class="fa-brands fa-square-twitter"></i>
             </a>
         </li>
