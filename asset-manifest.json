@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.58170f7a.css",
+    "main.js": "/portfolio-react/static/js/main.01289037.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/avatar.png": "/portfolio-react/static/media/avatar.cc51b4ef376bb4f877c4.png",
+    "static/media/teamprofileImg.png": "/portfolio-react/static/media/teamprofileImg.2e478af0dfeec61d3ac2.png",
+    "static/media/readmeImg.png": "/portfolio-react/static/media/readmeImg.b0eaa6f2da909e13b746.png",
+    "static/media/employeeImg.png": "/portfolio-react/static/media/employeeImg.67cd4d578828eed59766.png",
+    "static/media/socialmoodiaImg.png": "/portfolio-react/static/media/socialmoodiaImg.690c5e1ce4fcfe6d5f5e.png",
+    "static/media/workdayImg.png": "/portfolio-react/static/media/workdayImg.43cdbf3bc2f944207c4c.png",
+    "static/media/listImg.png": "/portfolio-react/static/media/listImg.dd3bdec64b9023a628dd.png",
+    "static/media/techblogImg.png": "/portfolio-react/static/media/techblogImg.004a477f5bccf3f6efa4.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.58170f7a.css.map": "/portfolio-react/static/css/main.58170f7a.css.map",
+    "main.01289037.js.map": "/portfolio-react/static/js/main.01289037.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58170f7a.css",
+    "static/js/main.01289037.js"
+  ]
+}
