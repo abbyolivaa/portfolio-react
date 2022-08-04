@@ -137,3 +137,7 @@ nav a:hover, footer a:hover{
 #p{
   margin-left: 10px;
 }
+
+.contactItems div{
+  padding: 30px;
+}
